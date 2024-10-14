@@ -13,4 +13,8 @@ See [AGILE_SUBTASKS_TEMPLATE.md](./AGILE_SUBTASKS_TEMPLATE.md)
 
 Example for Threagile:
 
+## Design Detailed Solution Architecture
+
+See [README.md](./100/README.md)
+
 MORE
